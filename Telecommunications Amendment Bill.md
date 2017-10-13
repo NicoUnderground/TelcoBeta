@@ -29,7 +29,7 @@ nications-act-2001.
 The communications sector is a key enabler of economic growth. The Government’s
 goal is to support a communications environment that provides high-quality and af-
 fordable services for all New Zealanders, and enables the New Zealand economy to
-grow, innovate, and compete in a dynamic global environment.
+grow, innovate, and compete in a dynamic global environment. This is a test change.
 
 The Act provides the underlying economic regulation of communications markets in
 New Zealand.
